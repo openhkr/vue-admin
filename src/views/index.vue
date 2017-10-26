@@ -124,7 +124,7 @@
                 <div class="layout-content-main">内容区域</div>
             </div>
             <div class="layout-copy">
-                2017-2022 &copy; 东软睿驰分时租赁
+                2017-2022 &copy; hkr牌花露水
             </div>
             </Col>
         </Row>
